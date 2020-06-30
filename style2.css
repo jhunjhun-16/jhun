@@ -1,0 +1,77 @@
+body {
+ background-image: url("galaxy.jpg") ;
+ background-repeat: no repeat;
+ background-size: cover;
+ margin: 0;
+ padding:0;
+ 
+}
+a {
+ text-decoration: none;
+ text-align: center;
+}
+#container {
+  background-image: url("matrix.jpg") ;
+ background-repeat: no repeat;
+ background-size: cover;
+ margin: 0;
+ padding:0;
+
+}
+
+#header {
+   background-image: url("galaxy.jpg") ;
+   background-repeat: no repeat;
+   background-size: cover;
+   margin: 0;
+   padding:0;
+   text-align: center;
+   padding: 5px;
+   font-weight: bold;
+}
+ul {
+   list-style-type: none;
+   width: auto;
+   float: center;
+   margin-top: 8px;
+   
+}
+li {
+   display: inline-block;
+   padding: 15px 30px;
+   
+}
+
+#startup {
+text-align: center;
+font-weight: bold;
+line-height: 5px;
+color: red;
+padding: 40px;
+}
+#watch {
+text-align: center;
+}
+
+
+.column {
+text-align: center;
+}
+
+
+ 
+#button {
+text-align:center;
+font-weight: bold;
+padding: 15px;
+
+
+
+}
+
+#footer {
+   padding: 10px;
+   background-color: gray;
+   color: white;
+   text-align: center;
+}

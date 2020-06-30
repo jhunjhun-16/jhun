@@ -1,0 +1,74 @@
+body {
+ background-image: url("bg.jpeg") ;
+ background-repeat: no repeat;
+ background-size: cover;
+ margin: 0;
+ padding:0;
+ 
+}
+a {
+ text-decoration: none;
+}
+#container {
+   background-image: url("bg.jpeg") ;
+   background-repeat: no repeat;
+   background-size: cover;
+   width: 800px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+#header {
+   background-image: url("bg.jpeg") ;
+   text-align: left;
+   padding:1px;
+   font-weight: bold;
+}
+ul {
+
+   list-style-type: none;
+   width: auto;
+   float: center;
+   margin-top: 8px;
+   
+}
+li {
+   display: inline-block;
+   padding: 15px 30px;
+   
+}
+
+#startup {
+text-align: center;
+font-weight: bold;
+line-height: 5px;
+color: white;
+padding: 40px;
+}
+#mysports {
+text-align: center;
+}
+
+
+.column {
+text-align: center;
+}
+
+
+ 
+#button {
+text-align:center;
+font-weight: bold;
+padding: 15px;
+
+
+
+}
+
+#footer {
+   padding: 10px;
+   background-color: gray;
+   color: white;
+   text-align: center;
+}
